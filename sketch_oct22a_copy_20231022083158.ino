@@ -5,7 +5,7 @@ int danclight [5] [4] = {
   {0,1,1,0},
   {1,1,0,0},
   {1,0,0,0}
-}
+};
 void setup() {
   // put your setup code here, to run once:
   for(int thispin = 0; thispin < 4; thispin++) {
